@@ -1,0 +1,16 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "This is Namaste React by Guruveer Singh",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/guruveer-singh/Namaste-React)"
+  },
+  "keywords": [],
+  "author": "Guruveer Singh",
+  "license": "ISC"
+}
